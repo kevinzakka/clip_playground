@@ -1,0 +1,1 @@
+# Playground for CLIP-like models
