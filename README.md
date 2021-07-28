@@ -9,6 +9,10 @@
 
 ## Changelog
 
+### 2021-07-28
+
+* Better plotting for reCAPTCHA.
+
 ### 2021-07-27
 
 * Allow multiple captions in detection query, colon separated.
