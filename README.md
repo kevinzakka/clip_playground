@@ -12,5 +12,6 @@
 ### 2021-07-27
 
 * Allow multiple captions in detection query, colon separated.
+* Allow the user to resize an image during selective search.
 * Tuned the rejection parameters of selective search.
 * Minor bugfix in naive patch detector.
