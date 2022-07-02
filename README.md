@@ -7,6 +7,19 @@
 | Smarter Zero-shot Detection  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_Zero_shot_Detector.ipynb)  |
 | Captcha Solver  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_reCAPTCHA.ipynb) |
 
+If you find this playground useful, consider citing it:
+
+```bibtex
+@software{zakka2021clipplayground,
+    author = {Zakka, Kevin},
+    month = {7},
+    title = {{A Playground for CLIP-like Models}},
+    url = {https://github.com/kevinzakka/clip_playground},
+    version = {0.0.1},
+    year = {2021}
+}
+```
+
 ## Changelog
 
 ### 2021-07-28
